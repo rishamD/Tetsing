@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal.
 *NAME : Rishamdeep Singh
 STUDENT NUMBER : 7900942
 COURSE : COMP 2150
